@@ -1,0 +1,1 @@
+{"version":3,"file":"test-controller.js","sourceRoot":"","sources":["../../src/routes/test-controller.ts"],"names":[],"mappings":";;;;;AAAA,sDAA8B;AAC9B,mEAAgF,CAAC,2CAA2C;AAE5H,MAAM,MAAM,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAEhC,MAAM,CAAC,GAAG,CAAC,cAAc,EAAE,gCAAc,CAAC,CAAC;AAC3C,MAAM,CAAC,GAAG,CAAC,cAAc,EAAE,iCAAe,CAAC,CAAC;AAE5C,kBAAe,MAAM,CAAC"}

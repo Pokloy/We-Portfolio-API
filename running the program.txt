@@ -1,0 +1,5 @@
+Run the backend: 
+
+building = tsc
+running in typeScript = node dist/index.js
+running in nodemon = go to "dist/" folder > type "nodemon index.js"
